@@ -1,0 +1,16 @@
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\bin\Debug\net5.0\Vestibular.Infraestrutura.deps.json
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\bin\Debug\net5.0\Vestibular.Infraestrutura.dll
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\bin\Debug\net5.0\Vestibular.Infraestrutura.pdb
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\bin\Debug\net5.0\Vestibular.Domain.dll
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\bin\Debug\net5.0\Vestibular.Domain.pdb
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\Vestibular.Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\Vestibular.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\Vestibular.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\Vestibular.Infraestrutura.AssemblyInfo.cs
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\Vestibular.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\Vestibular.Infraestrutura.sourcelink.json
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\Vestibul.1E4050A3.Up2Date
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\Vestibular.Infraestrutura.dll
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\refint\Vestibular.Infraestrutura.dll
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\Vestibular.Infraestrutura.pdb
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Infraestrutura\obj\Debug\net5.0\ref\Vestibular.Infraestrutura.dll

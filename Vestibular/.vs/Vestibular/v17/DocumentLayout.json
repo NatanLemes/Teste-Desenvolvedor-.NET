@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D71156B-6CA2-46CD-AC00-DCEDE544ABAD}|Vestibular.API\\Vestibular.API.csproj|c:\\users\\cunha\\documents\\github\\teste-desenvolvedor-.net\\vestibular\\vestibular.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D71156B-6CA2-46CD-AC00-DCEDE544ABAD}|Vestibular.API\\Vestibular.API.csproj|solutionrelative:vestibular.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D71156B-6CA2-46CD-AC00-DCEDE544ABAD}|Vestibular.API\\Vestibular.API.csproj|c:\\users\\cunha\\documents\\github\\teste-desenvolvedor-.net\\vestibular\\vestibular.api\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D71156B-6CA2-46CD-AC00-DCEDE544ABAD}|Vestibular.API\\Vestibular.API.csproj|solutionrelative:vestibular.api\\controllers\\candidatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908C0681-1FF9-4F0B-B041-B914087E4B69}|Vestibular.Infraestrutura\\Vestibular.Infraestrutura.csproj|c:\\users\\cunha\\documents\\github\\teste-desenvolvedor-.net\\vestibular\\vestibular.infraestrutura\\context\\vestibulardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908C0681-1FF9-4F0B-B041-B914087E4B69}|Vestibular.Infraestrutura\\Vestibular.Infraestrutura.csproj|solutionrelative:vestibular.infraestrutura\\context\\vestibulardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D71156B-6CA2-46CD-AC00-DCEDE544ABAD}|Vestibular.API\\Vestibular.API.csproj|c:\\users\\cunha\\documents\\github\\teste-desenvolvedor-.net\\vestibular\\vestibular.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D71156B-6CA2-46CD-AC00-DCEDE544ABAD}|Vestibular.API\\Vestibular.API.csproj|solutionrelative:vestibular.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBF9DDA-C4CE-4586-AF6B-F5923185DBF3}|Vestibular.Domain\\Vestibular.Domain.csproj|c:\\users\\cunha\\documents\\github\\teste-desenvolvedor-.net\\vestibular\\vestibular.domain\\entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBF9DDA-C4CE-4586-AF6B-F5923185DBF3}|Vestibular.Domain\\Vestibular.Domain.csproj|solutionrelative:vestibular.domain\\entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidatoController.cs",
+              "DocumentMoniker": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\Vestibular.API\\Controllers\\CandidatoController.cs",
+              "RelativeDocumentMoniker": "Vestibular.API\\Controllers\\CandidatoController.cs",
+              "ToolTip": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\Vestibular.API\\Controllers\\CandidatoController.cs",
+              "RelativeToolTip": "Vestibular.API\\Controllers\\CandidatoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:12:37.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\Vestibular.API\\Startup.cs",
+              "RelativeDocumentMoniker": "Vestibular.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\Vestibular.API\\Startup.cs",
+              "RelativeToolTip": "Vestibular.API\\Startup.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:58:10.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Candidato.cs",
+              "DocumentMoniker": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\Vestibular.Domain\\Entities\\Candidato.cs",
+              "RelativeDocumentMoniker": "Vestibular.Domain\\Entities\\Candidato.cs",
+              "ToolTip": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\Vestibular.Domain\\Entities\\Candidato.cs",
+              "RelativeToolTip": "Vestibular.Domain\\Entities\\Candidato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:53:17.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\Vestibular.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Vestibular.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\Vestibular.API\\appsettings.json",
+              "RelativeToolTip": "Vestibular.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T21:48:13.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VestibularDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\Vestibular.Infraestrutura\\Context\\VestibularDbContext.cs",
+              "RelativeDocumentMoniker": "Vestibular.Infraestrutura\\Context\\VestibularDbContext.cs",
+              "ToolTip": "C:\\Users\\cunha\\Documents\\GitHub\\Teste-Desenvolvedor-.NET\\Vestibular\\Vestibular.Infraestrutura\\Context\\VestibularDbContext.cs",
+              "RelativeToolTip": "Vestibular.Infraestrutura\\Context\\VestibularDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:41:24.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

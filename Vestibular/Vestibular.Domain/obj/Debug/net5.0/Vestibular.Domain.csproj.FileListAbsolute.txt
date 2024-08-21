@@ -1,0 +1,12 @@
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\bin\Debug\net5.0\Vestibular.Domain.deps.json
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\bin\Debug\net5.0\Vestibular.Domain.dll
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\bin\Debug\net5.0\Vestibular.Domain.pdb
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\obj\Debug\net5.0\Vestibular.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\obj\Debug\net5.0\Vestibular.Domain.AssemblyInfoInputs.cache
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\obj\Debug\net5.0\Vestibular.Domain.AssemblyInfo.cs
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\obj\Debug\net5.0\Vestibular.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\obj\Debug\net5.0\Vestibular.Domain.sourcelink.json
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\obj\Debug\net5.0\Vestibular.Domain.dll
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\obj\Debug\net5.0\refint\Vestibular.Domain.dll
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\obj\Debug\net5.0\Vestibular.Domain.pdb
+C:\Users\cunha\Documents\GitHub\Teste-Desenvolvedor-.NET\Vestibular\Vestibular.Domain\obj\Debug\net5.0\ref\Vestibular.Domain.dll
