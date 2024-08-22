@@ -73,7 +73,12 @@ Para realizar a entrega do teste você deve:
   * Exemplo: `teste/fulano-da-silva`;
   
 * Faça um commit da sua branch com a implementação do teste
+
   
 * Realize o pull request da sua branch nesse repositório
 
 Além do pull request você deve **gravar um vídeo de no máximo 30 minutos** mostrando o que foi desenvolvido, falando sobre as decisões que foram tomadas, as tecnologias utilizadas, arquitetura e tudo que você achar relevante. A facecam é opcional, mas é um extra desejável. Esse vídeo deve ser postado no youtube (pode ser não listado) e seu link deve estar no `README.md` do projeto.
+
+* [Link video](https://youtu.be/MTJVI8gqi7Q)
+  
+
