@@ -5,9 +5,11 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vestibular.API", "Vestibular.API\Vestibular.API.csproj", "{8D71156B-6CA2-46CD-AC00-DCEDE544ABAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vestibular.Infraestrutura", "Vestibular.Infraestrutura\Vestibular.Infraestrutura.csproj", "{908C0681-1FF9-4F0B-B041-B914087E4B69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vestibular.Infrastructure", "Vestibular.Infraestrutura\Vestibular.Infrastructure.csproj", "{908C0681-1FF9-4F0B-B041-B914087E4B69}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vestibular.Domain", "Vestibular.Domain\Vestibular.Domain.csproj", "{BFBF9DDA-C4CE-4586-AF6B-F5923185DBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vestibular.Aplication", "Vestibular.Aplication\Vestibular.Aplication.csproj", "{6C575B58-38FB-46C0-893A-D56059157E83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BFBF9DDA-C4CE-4586-AF6B-F5923185DBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFBF9DDA-C4CE-4586-AF6B-F5923185DBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFBF9DDA-C4CE-4586-AF6B-F5923185DBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C575B58-38FB-46C0-893A-D56059157E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C575B58-38FB-46C0-893A-D56059157E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C575B58-38FB-46C0-893A-D56059157E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C575B58-38FB-46C0-893A-D56059157E83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

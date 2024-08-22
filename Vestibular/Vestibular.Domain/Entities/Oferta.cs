@@ -16,6 +16,8 @@ namespace Vestibular.Domain.Entities
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Descricao { get; set; }
+
+        [Column("vagas_disponiveis")]
         public int VagasDisponiveis { get; set; }
         public List<Inscricao> Inscricoes { get; set; }
 

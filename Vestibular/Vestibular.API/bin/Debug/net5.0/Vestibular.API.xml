@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Vestibular.API</name>
+    </assembly>
+    <members>
+        <member name="M:Vestibular.API.Controllers.CandidatoController.GetAll">
+            <summary>
+            Busca Todos os candidatos
+            </summary>
+            <response code="200">Retorno da busca</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.CandidatoController.GetById(System.Int32)">
+            <summary>
+            Busca o candidato pelo seu Id
+            </summary>
+            <response code="200">Retorno da busca</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.CandidatoController.AddCandidato(Vestibular.Aplication.Dtos.CandidatoDto)">
+             <summary>
+             Cria um novo candidato.
+             </summary>
+             <param name="item"></param>
+             <returns>Retorna o Candidato criado</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /
+                 {
+                    "nome": "Candidato #1",
+                    "email": "candidato1@gmail.com",
+                    "telefone": "21999999999",
+                    "cpf": "22222222222"
+                 }
+            
+             </remarks>
+             <response code="201">Retorna o candidato criado</response>
+             <response code="400">Retorna quando há algum problema no momento do insert.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.CandidatoController.UpdateCandidato(Vestibular.Aplication.Dtos.CandidatoDto,System.Int32)">
+             <summary>
+             Altera o candidato selecionado.
+             </summary>
+             <param name="item"></param>
+             <returns>Retorna o Candidato alterado</returns>
+             <remarks>
+             Sample request:
+            
+                 PUT / 1
+                 {
+                    "nome": "Candidato #1",
+                    "email": "candidato1@gmail.com",
+                    "telefone": "21999999999",
+                    "cpf": "22222222222"
+                 }
+            
+             </remarks>
+             <response code="200">Retorna o candidato alterado</response>
+             <response code="400">Retorna quando há algum problema no momento do update.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.CandidatoController.Delete(System.Int32)">
+            <summary>
+            Deleta o candidato pelo seu Id
+            </summary>
+            <response code="200">Candidato deletado</response>
+            <response code="400">Retorna quando há algum problema no momento da exclusão.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.InscricaoController.GetAll">
+            <summary>
+            Busca Todas as inscricoes
+            </summary>
+            <response code="200">Retorno da busca</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.InscricaoController.GetById(System.Int32)">
+            <summary>
+            Busca a inscricao pelo seu Id
+            </summary>
+            <response code="200">Retorno da busca</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.InscricaoController.AddCandidato(Vestibular.Aplication.Dtos.InscricaoDto)">
+             <summary>
+             Cria uma nova inscricao.
+             </summary>
+             <param name="item"></param>
+             <returns>Retorna o Candidato criado</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /
+                 {
+                    "IdCandidato": 1,
+                    "IdOferta": 1,
+                    "IdProcessoSeletivo": 1
+                 }
+            
+             </remarks>
+             <response code="201">Retorna a inscricao criada</response>
+             <response code="400">Retorna quando há algum problema no momento do insert.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.InscricaoController.UpdateInscricao(Vestibular.Aplication.Dtos.InscricaoUpdateDto,System.Int32)">
+             <summary>
+             Altera a inscricao selecionada.
+             </summary>
+             <param name="item"></param>
+             <returns>Retorna a inscricao alterado</returns>
+             <remarks>
+             Sample request:
+            
+                 PUT / 1
+                 {
+                    "status":"Aprovada"
+                 }
+            
+             </remarks>
+             <response code="200">Retorna a inscricao alterado</response>
+             <response code="400">Retorna quando há algum problema no momento do update.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.InscricaoController.Delete(System.Int32)">
+            <summary>
+            Deleta a inscricao pelo seu Id
+            </summary>
+            <response code="200">Candidato deletado</response>
+            <response code="400">Retorna quando há algum problema no momento da exclusão.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.InscricaoController.GetbyCpf(System.String)">
+            <summary>
+            Busca todas as inscrições de um determinado CPF
+            </summary>
+            <response code="200">Retorno da busca</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.InscricaoController.GetByOferta(System.Int32)">
+            <summary>
+            Busca todas as inscrições de um determinado CPF
+            </summary>
+            <response code="200">Retorno da busca</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.OfertaController.GetAll">
+            <summary>
+            Busca Todos as ofertas
+            </summary>
+            <response code="200">Retorno da busca</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.OfertaController.GetById(System.Int32)">
+            <summary>
+            Busca a oferta pelo seu Id
+            </summary>
+            <response code="200">Retorno da busca</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.OfertaController.AddOferta(Vestibular.Aplication.Dtos.OfertaDto)">
+             <summary>
+             Cria uma nova oferta.
+             </summary>
+             <param name="item"></param>
+             <returns>Retorna a oferta criada</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /
+                 {
+                    "nome": "Oferta #1",
+                    "descricao": "essa é uma descrição de vaga",
+                    "vagasdisponivies": 20
+                 }
+            
+             </remarks>
+             <response code="201">Retorna a oferta criada</response>
+             <response code="400">Retorna quando há algum problema no momento do insert.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.OfertaController.UpdateOferta(Vestibular.Aplication.Dtos.OfertaDto,System.Int32)">
+             <summary>
+             Altera a oferta selecionado.
+             </summary>
+             <param name="item"></param>
+             <returns>Retorna a oferta alterada</returns>
+             <remarks>
+             Sample request:
+            
+                 PUT / 1
+                 {
+                    "nome": "Oferta #1 update",
+                    "descricao": "essa é uma descrição de vaga",
+                    "vagasdisponivies": 20
+                 }
+            
+             </remarks>
+             <response code="200">Retorna o candidato alterado</response>
+             <response code="400">Retorna quando há algum problema no momento do update.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.OfertaController.Delete(System.Int32)">
+            <summary>
+            Deleta a oferta pelo seu Id
+            </summary>
+            <response code="200">Oferta deletada</response>
+            <response code="400">Retorna quando há algum problema no momento da exclusão.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.ProcessoSeletivoController.GetAll">
+            <summary>
+            Busca Todos os processos
+            </summary>
+            <response code="200">Retorno da busca</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.ProcessoSeletivoController.GetById(System.Int32)">
+            <summary>
+            Busca o processo pelo seu Id
+            </summary>
+            <response code="200">Retorno da busca</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.ProcessoSeletivoController.AddProcesso(Vestibular.Aplication.Dtos.ProcessoSeletivoDto)">
+             <summary>
+             Cria um novo processo seletivo.
+             </summary>
+             <param name="item"></param>
+             <returns>Retorna o processo criado</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /
+                 {
+                    "nome": "Processo #1",
+                    "dataInicio": "2024-08-20",
+                    "dataFim": "2024-08-21"
+                 }
+            
+             </remarks>
+             <response code="201">Retorna o processo criado</response>
+             <response code="400">Retorna quando há algum problema no momento do insert.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.ProcessoSeletivoController.UpdateProcesso(Vestibular.Aplication.Dtos.ProcessoSeletivoDto,System.Int32)">
+             <summary>
+             Altera o processo selecionado.
+             </summary>
+             <param name="item"></param>
+             <returns>Retorna o processo alterado</returns>
+             <remarks>
+             Sample request:
+            
+                 PUT / 1
+                 {
+                    "nome": "Processo #1",
+                    "dataInicio": "2024-08-20",
+                    "dataFim": "2024-08-21"
+                 }
+            
+             </remarks>
+             <response code="200">Retorna o processo alterado</response>
+             <response code="400">Retorna quando há algum problema no momento do update.</response>
+        </member>
+        <member name="M:Vestibular.API.Controllers.ProcessoSeletivoController.Delete(System.Int32)">
+            <summary>
+            Deleta o processo pelo seu Id
+            </summary>
+            <response code="200">processo deletado</response>
+            <response code="400">Retorna quando há algum problema no momento da exclusão.</response>
+        </member>
+    </members>
+</doc>

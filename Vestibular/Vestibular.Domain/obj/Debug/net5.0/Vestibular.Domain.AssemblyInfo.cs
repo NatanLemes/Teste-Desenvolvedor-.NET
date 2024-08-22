@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vestibular.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d37637ed95171f29f8ea95618ca0d29f15935e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0d8dbe89cd900738011395a5d3eef82161d9127")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vestibular.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vestibular.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

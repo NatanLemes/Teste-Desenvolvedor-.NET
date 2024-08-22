@@ -16,7 +16,11 @@ namespace Vestibular.Domain.Entities
         [Key]
         public int Id { get; set; }
         public string Nome { get; set; }
+
+        [Column("data_inicio")]
         public DateTime DataInicio { get; set; }
+
+        [Column("data_termino")]
         public DateTime DataFim { get; set; }
         public List<Inscricao> Inscricoes { get; set; }
 
